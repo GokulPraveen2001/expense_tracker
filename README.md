@@ -1,4 +1,6 @@
-# expense_tracker
+NOTE : I have forked this repo from my earlier account(Goku-tech) as I lost my credentials in that account
+
+# Expense Tracker
 
 A new Flutter project.
 
